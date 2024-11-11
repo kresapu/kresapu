@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keerti
-- 👀 I’m interested in exploring the data to draw insights
+- 👀 I’m interested in exploring the data to draw meaningful insights
 - 🌱 I’m currently learning predicitive modeling
 - 💞️ I’m looking to collaborate on research projects in health data analytics
 - 📫 How to reach me Keerthy.resapu512@gmail.com
